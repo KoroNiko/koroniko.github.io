@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Nikos' page
 
 # Your name to show in the footer
-author: Some Person
+author: Nikos Korovesis
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,8 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-
+  Blog:
+    - Maxim's story: "./_posts/"
 ################
 # --- Logo --- #
 ################
@@ -34,7 +32,7 @@ navbar-links:
 # avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -91,7 +89,6 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
