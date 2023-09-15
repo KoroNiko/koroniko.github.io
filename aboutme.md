@@ -3,13 +3,21 @@ layout: page
 title: About me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! I'm Nikos, coming from Greece and currently residing in Leuven, Belgium. Currently, my life revolves around the following things:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Studying Artificial Intelligence at KU Leuven
+- Working as a software developer at [SoundTalks NV](https://www.soundtalks.com/)
+- Self-studying on different frameworks (Computer Vision, TensorFlow, Django, ...)
+- Reading books, going for runs or cooking (sometimes) delicious foods
 
-What else do you need?
+I mainly work with the Python :snake: ecosystem, some examples being:
 
-### My story
+- [Pandas](https://pandas.pydata.org/)
+- [Plotly / Plotly Dash](https://plotly.com/)
+- [TensorFlow](https://www.tensorflow.org/learn)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- ...
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have a passion for solving problems, collaborating with people and hopefully turning out to be a better person each day.
+
+You can reach out to me by clicking any of the social media buttons below.
