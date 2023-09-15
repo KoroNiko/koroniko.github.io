@@ -14,7 +14,11 @@ layout: null
 }
 @font-face {
   font-family: "Roboto-Slab";
-  src: url("../fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf");
+  src: url("../fonts/Roboto_Slab/static/RobotoSlab-Regular.ttf");
+}
+@font-face {
+  font-family: "Merriweather-Regular";
+  src: url("../fonts/Merriweather/Merriweather-Regular.ttf");
 }
 
 /* --- Start of template --- */
@@ -44,7 +48,7 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Playfair-Display', 'Roboto-Slab', 'Mooli', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto-Slab', 'Mooli', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
