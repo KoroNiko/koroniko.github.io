@@ -32,7 +32,8 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 2.25rem;
+  /* 2.25 originally */
+  font-size: 1.8rem;
 }
 h2 {
   font-size: 1.875rem;
@@ -473,7 +474,7 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-title {
-  font-size: 1.125rem;
+  font-size: 1.875rem;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
