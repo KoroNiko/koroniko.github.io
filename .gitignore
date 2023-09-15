@@ -11,4 +11,8 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+# VS Code config folder
 .vscode
+
+# My files
+OFL.txt
